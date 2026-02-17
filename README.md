@@ -72,36 +72,6 @@ Pulse animations for active system nodes.
 
 Scanline overlays for health monitors to simulate CRT/Terminal aesthetics.
 
-🚦 Getting Started
-
-Prerequisites
-
-Node.js (v18.0 or higher)
-
-npm or yarn
-
-Installation
-
-Clone the repository:
-
-git clone [https://github.com/your-org/ai-strategy-lab.git](https://github.com/your-org/ai-strategy-lab.git)
-
-
-Install dependencies:
-
-npm install
-
-
-Execution
-
-Launch the development server:
-
-npm run dev
-
-
-Build for production:
-
-npm run build
 
 
 📄 License
